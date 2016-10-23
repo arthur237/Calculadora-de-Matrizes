@@ -1,0 +1,54 @@
+C:\Users\arthur.gomes\Documents\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\arthur.gomes\Documents\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\arthur.gomes\Documents\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\arthur.gomes\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\arthur.gomes\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\arthur.gomes\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\arthur.gomes\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\arthur.gomes\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\arthur.gomes\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\arthu\Desktop\Nova pasta (9)\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\arthu\Desktop\Nova pasta (9)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\arthu\Desktop\Nova pasta (9)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\arthu\Desktop\Nova pasta (9)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\arthu\Desktop\Nova pasta (9)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\arthu\Desktop\Nova pasta (9)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\arthu\Desktop\Nova pasta (9)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\arthu\Desktop\Nova pasta (9)\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\arthu\Desktop\Nova pasta (9)\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\arthur.gomes\Downloads\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\arthur.gomes\Downloads\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\arthur.gomes\Downloads\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\arthur.gomes\Downloads\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\arthur.gomes\Downloads\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\arthur.gomes\Downloads\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\arthur.gomes\Downloads\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\arthur.gomes\Downloads\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\arthur.gomes\Downloads\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\arthu\Desktop\Nova pasta (10)\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\arthu\Desktop\Nova pasta (10)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\arthu\Desktop\Nova pasta (10)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\arthu\Desktop\Nova pasta (10)\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\arthu\Desktop\Nova pasta (10)\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\arthu\Desktop\Nova pasta (10)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\arthu\Desktop\Nova pasta (10)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\arthu\Desktop\Nova pasta (10)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\arthu\Desktop\Nova pasta (10)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Fellipe\Desktop\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Fellipe\Desktop\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Fellipe\Desktop\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fellipe\Desktop\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Fellipe\Desktop\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fellipe\Desktop\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Fellipe\Desktop\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Fellipe\Desktop\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Fellipe\Desktop\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\arthu\Desktop\Nova pasta (9)\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\arthu\Desktop\Nova pasta (9)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\arthu\Desktop\Nova pasta (9)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\arthu\Desktop\Nova pasta (9)\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\arthu\Desktop\Nova pasta (9)\CALC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\arthu\Desktop\Nova pasta (9)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\arthu\Desktop\Nova pasta (9)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\arthu\Desktop\Nova pasta (9)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\arthu\Desktop\Nova pasta (9)\CALC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
